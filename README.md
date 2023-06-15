@@ -10,17 +10,6 @@ I am a passionate Fullstack Developer with expertise in Vue.js, Laravel, and Typ
 - **Version Control**: Git, GitHub
 - **Tools and Utilities**: Visual Studio Code, Postman
 
-<!-- ## Projects
-Here are some notable projects I've worked on:
-
-1. **Project A**
-   - Description: A web application built using Vue.js and Laravel for managing tasks and tracking progress.
-   - GitHub Repository: [Link to Project A](https://github.com/your-username/project-a)
-   
-2. **Project B**
-   - Description: An e-commerce platform developed using Vue.js and Laravel, featuring product catalog, shopping cart, and secure payment integration.
-   - GitHub Repository: [Link to Project B](https://github.com/your-username/project-b) -->
-
 ## Get in Touch
 I'm always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out to me via email at [maulana4pz@gmail.com](mailto:maulana4pz@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/maulana-aprizqy-sumaryanto-920a0b243/).
 
