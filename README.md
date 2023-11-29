@@ -11,6 +11,6 @@ I am a passionate Fullstack Developer with expertise in Vue.js, Laravel, and Typ
 - **Tools and Utilities**: Visual Studio Code, Postman
 
 ## Get in Touch
-I'm always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out to me via email at [maulana4pz@gmail.com](mailto:maulana4pz@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/maulana-aprizqy-sumaryanto-920a0b243/).
+I'm always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out to me via email at [aprizqy.work@gmail.com](mailto:aprizqy.work@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/maulana-aprizqy-sumaryanto-920a0b243/).
 
 Looking forward to connecting with you! 😄
