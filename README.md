@@ -8,7 +8,7 @@ I am a passionate Full Stack Developer with expertise in Vue.js, Laravel, and Ty
 - **Backend Development**: Laravel, CodeIgniter
 - **Database**: MySQL, PostgreSQL
 - **Version Control**: Git
-- **Tools and Utilities**: Visual Studio Code, Postman, ChatGPT
+- **Tools and Utilities**: Neovim, Insomnia, ChatGPT
 
 ## Get in Touch
 I'm always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out to me via email at [aprizqymaulana@gmail.com](mailto:aprizqymaulana@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aprizqy/).
